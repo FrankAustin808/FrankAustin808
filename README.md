@@ -9,11 +9,12 @@ I live in Cincinnati Ohio with my amazing girlfriend and our three cats!
 
 
 ### Projects 🖥️
-- Caine Discord Bot
-- Rick Discord Bot
+[![Caine Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=CaineBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rick Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=RickBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Side Projects 💻
-- BlitzWare API Winform Template
+- **BlitzWare WinForms Template**
 
 ### Languages I Am Studying 🎒
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -29,10 +30,6 @@ I live in Cincinnati Ohio with my amazing girlfriend and our three cats!
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
 ### GitHub & WakaTime Stats 📚
-
-[![Caine Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=CaineBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Rick Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=RickBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FrankAustin808&show_icons=true&theme=transparent)
 
