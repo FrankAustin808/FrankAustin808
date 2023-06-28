@@ -17,6 +17,7 @@ I live in Cincinnati Ohio with my amazing girlfriend and our three cats!
 | ----- | ----- |  ----- |       
 |  Caine |  0.6.8 ⚙️ |   Online :white_check_mark: |
 |  Rick |  0.0.3 ⚙️ |   Offline :x: |
+|  Heavy Process Booster |  0.2.5 ⚙️ |   Offline :x: |
 
 ### Side Projects 💻
 - **BlitzWare WinForms Template**
