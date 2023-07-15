@@ -1,26 +1,19 @@
 # Hello, I'm Frank! 👋
 
 ## About Me ℹ️
-Once again hello! I am Brandon also known as Frank.
+ - 🥇 Most used IDE: **Visual Studio 22**
+ - ⌨️ Most used language: **C#**
+ - 🍏 I am current working on **FlixAPI**
+ - 📫 How to reach me: **frankaustindev808@gmail.com** / Discord: **frankisdank**
+ - 🌩️ Fun Fact: I probably play video games way too much 🎮
 
-I am 21 years old and mostly self taught, I do take some "classes" from [Code With Mosh](https://codewithmosh.com/)
-
-I live in Cincinnati Ohio with my amazing girlfriend and our three cats!
-
-
-### Projects / Status 🖥️
-[![Caine Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=CaineBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Rick Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=RickBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
-| Name | Version | Status | 
-| ----- | ----- |  ----- |       
-|  Caine |  0.6.8 ⚙️ |   Online :white_check_mark: |
-|  Rick |  0.0.3 ⚙️ |   Offline :x: |
-|  Heavy Process Booster |  0.2.5 ⚙️ |   Offline :x: |
-
-### Side Projects 💻
-- **BlitzWare WinForms Template**
+### Project Status ⚙️
+| Name | Version | Status | Source |
+| ----- | ----- |  ----- |  ----- |     
+|  Caine |  0.6.13 ⚙️ |   Online ✅ | Open |
+|  Rick |  0.1.6 ⚙️ |   Offline ✖ | Open |
+|  Flixer |  0.2.7 ⚙️ |   Offline ✖ | Closed |
+|  FlixAPI | 1.1.7 ⚙️ |  Online ✅ | Closed |
 
 ### Languages & IDEs / Editors I Use 🎒
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -33,6 +26,14 @@ I live in Cincinnati Ohio with my amazing girlfriend and our three cats!
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+
+### Projects 🖥️
+[![Caine Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=CaineBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Rick Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=RickBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Side Projects 💻
+- **BlitzWare WinForms Template**
 
 ### GitHub & WakaTime Stats 📚
 
