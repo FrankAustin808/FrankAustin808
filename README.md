@@ -7,14 +7,6 @@
  - 📫 How to reach me: **frankaustindev808@gmail.com** / Discord: **frankisdank**
  - 🌩️ Fun Fact: I probably play video games way too much 🎮
 
-### Project Status ⚙️
-| Name | Version | Status | Source |
-| ----- | ----- |  ----- |  ----- |     
-|  Caine |  0.6.13 ⚙️ |   Online ✅ | Open |
-|  Rick |  0.1.6 ⚙️ |   Offline ✖ | Open |
-|  Flixer |  0.2.7 ⚙️ |   Offline ✖ | Closed |
-|  FlixAPI | 1.1.7 ⚙️ |  Online ✅ | Closed |
-
 ### Languages & IDEs / Editors I Use 🎒
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,9 +19,16 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
+### Project Status ⚙️
+| Name | Version | Status | Source |
+| ----- | ----- |  ----- |  ----- |     
+|  Caine |  0.6.13 ⚙️ |   Online ✅ | Open |
+|  Rick |  0.1.6 ⚙️ |   Offline ✖ | Open |
+|  Flixer |  0.2.7 ⚙️ |   Offline ✖ | Closed |
+|  FlixAPI | 1.1.7 ⚙️ |  Online ✅ | Closed |
+
 ### Projects 🖥️
 [![Caine Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=CaineBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Rick Card](https://github-readme-stats.vercel.app/api/pin/?username=FrankAustin808&repo=RickBot&theme=transparent&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Side Projects 💻
